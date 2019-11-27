@@ -1,1 +1,7 @@
-# node_tareas_json
+##APlicacion de comandos
+Recuerda instalar los paquetes
+
+... 
+npm install
+
+..
